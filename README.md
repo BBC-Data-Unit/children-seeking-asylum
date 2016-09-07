@@ -4,7 +4,7 @@
 
 In September 2016 we reported that [the number of asylum seeking children in the care of English councils has risen 62% in a year](http://www.bbc.co.uk/news/uk-england-36714617).
 
-The data came from a series of Freedom of Information requests sent by data journalist Dan Wainwright, who then spoke to the Home Office, academic experts on migration, the [Refugee Council](http://www.refugeecouncil.org.uk/about_refugee_council), thinktank [Migration Watch UK](http://www.migrationwatchuk.org/about-us), Kent County Council and Northamptonshire County Council. The story was also fleshed out with a video interview with Bilal, who arrived from Afghanistan as an unaccompanied child, aged 15. 
+The data came from a series of [Freedom of Information requests](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/FOI-request.md) sent by data journalist Dan Wainwright, who then spoke to the Home Office, academic experts on migration, the [Refugee Council](http://www.refugeecouncil.org.uk/about_refugee_council), thinktank [Migration Watch UK](http://www.migrationwatchuk.org/about-us), Kent County Council and Northamptonshire County Council. The story was also fleshed out with a video interview with Bilal, who arrived from Afghanistan as an unaccompanied child, aged 15. 
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/children-seeking-asylum/master/Councils%20with%20most%20children%20seeking%20asylum%20in%20England.png)
 
@@ -23,11 +23,13 @@ The data came from a series of Freedom of Information requests sent by data jour
 * CSV: [Unaccompanied asylum seeking children by council and age](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/Unaccompanied%20asylum%20seeking%20children%20by%20council%20and%20age.csv)
 * CSV: [Unaccompanied asylum seeking children by nationality](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/Unaccompanied%20asylum%20seeking%20children%20by%20nationality.csv)
 * CSV: [Unaccompanied asylum seeking children year on year change](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/Unaccompanied%20asylum%20seeking%20children%20year%20on%20year%20change.csv)
+* Background national statistics: [Children looked after in England including adoption 2014-15](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/SFR34_2015_Local_Authority_Tables.xlsx) ([published on Gov.uk here](https://www.gov.uk/government/statistics/children-looked-after-in-england-including-adoption-2014-to-2015)). Relevant statistics can be found on *Table LAA4: Unaccompanied Asylum Seeking Children looked after at 31 March, by Local Authority*.
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/children-seeking-asylum/master/Most%20common%20countries%20children%20seeking%20asylum%20in%20England.png)
 
 ## Other resources
 
+* The [original FOI request](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/FOI-request.md)
 * In June UNICEF released a report on unaccompanied children driven from their homes by conflict: [Danger Every Step of the Way](http://www.unicef.org/emergencies/childrenonthemove/files/Child_Alert_Final_PDF.pdf)
 * [Information on the Asylum screening unit](https://www.gov.uk/asylum-screening-centre), which is based on Croydon, one of the reasons why it is the local authority with the second most asylum seeking children. 
 * [Information on Section 95 support](http://www.asaproject.org/wp-content/uploads/2013/03/fs1.pdf) which can be claimed by *adult* asylum seekers. "Asylum seekers who are under the age of 18 and arrive in the UK unaccompanied are not eligible for asylum support should instead apply for support from Social Services."
