@@ -25,3 +25,10 @@ The data came from a series of Freedom of Information requests sent by data jour
 * CSV: [Unaccompanied asylum seeking children year on year change](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/Unaccompanied%20asylum%20seeking%20children%20year%20on%20year%20change.csv)
 
 ![](https://raw.githubusercontent.com/BBC-Data-Unit/children-seeking-asylum/master/Most%20common%20countries%20children%20seeking%20asylum%20in%20England.png)
+
+## Other resources
+
+* In June UNICEF released a report on unaccompanied children driven from their homes by conflict: [Danger Every Step of the Way](http://www.unicef.org/emergencies/childrenonthemove/files/Child_Alert_Final_PDF.pdf)
+* [Information on the Asylum screening unit](https://www.gov.uk/asylum-screening-centre), which is based on Croydon, one of the reasons why it is the local authority with the second most asylum seeking children. 
+* [Information on Section 95 support](http://www.asaproject.org/wp-content/uploads/2013/03/fs1.pdf) which can be claimed by *adult* asylum seekers. "Asylum seekers who are under the age of 18 and arrive in the UK unaccompanied are not eligible for asylum support should instead apply for support from Social Services."
+* [Revealed: Fourfold rise as 95,000 unaccompanied children claim asylum in Europe in 2015](https://www.thebureauinvestigates.com/2016/04/10/revealed-fourfold-rise-95000-unaccompanied-children-claim-asylum-europe-2015/) by the Bureau of Investigative Journalism
