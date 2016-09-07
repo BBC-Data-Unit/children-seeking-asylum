@@ -6,6 +6,8 @@ In September 2016 we reported that [the number of asylum seeking children in the
 
 The data came from a series of Freedom of Information requests sent by data journalist Dan Wainwright, who then spoke to the Home Office, academic experts on migration, the [Refugee Council](http://www.refugeecouncil.org.uk/about_refugee_council), thinktank [Migration Watch UK](http://www.migrationwatchuk.org/about-us), Kent County Council and Northamptonshire County Council. The story was also fleshed out with a video interview with Bilal, who arrived from Afghanistan as an unaccompanied child, aged 15. 
 
+![](https://raw.githubusercontent.com/BBC-Data-Unit/children-seeking-asylum/master/Councils%20with%20most%20children%20seeking%20asylum%20in%20England.png)
+
 ## Visualisation
 
 * Dan created an [interactive map showing how many unaccompanied children were being looked after in each local authority, and the countries that children were coming from](https://public.tableau.com/profile/daniel.wainwright4535#!/vizhome/Unaccompanied/Dashboard1)
