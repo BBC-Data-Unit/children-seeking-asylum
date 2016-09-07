@@ -1,6 +1,6 @@
 # Rise in lone children seeking asylum in England
 
-![]9https://raw.githubusercontent.com/BBC-Data-Unit/children-seeking-asylum/master/Rise%20in%20lone%20children%20seeking%20asylum%20in%20England.png)
+![](https://raw.githubusercontent.com/BBC-Data-Unit/children-seeking-asylum/master/Rise%20in%20lone%20children%20seeking%20asylum%20in%20England.png)
 
 In September 2016 we reported that [the number of asylum seeking children in the care of English councils has risen 62% in a year](http://www.bbc.co.uk/news/uk-england-36714617).
 
