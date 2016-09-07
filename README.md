@@ -14,7 +14,7 @@ The data came from a series of Freedom of Information requests sent by data jour
 
 ## Data
 
-* A [Google spreadsheet of the data can be found here]9https://docs.google.com/spreadsheets/d/1guB9X-f83uCE0vnCXiv7H2u9Ivq3zwIxL9GWpVCCAHU/edit#gid=0). This includes sheets breaking down unaccompanied asylum seeking children by council and age; by year; and by nationality.
+* A [Google spreadsheet of the data can be found here](https://docs.google.com/spreadsheets/d/1guB9X-f83uCE0vnCXiv7H2u9Ivq3zwIxL9GWpVCCAHU/edit#gid=0). This includes sheets breaking down unaccompanied asylum seeking children by council and age; by year; and by nationality (available as CSV files below).
 * CSV: [Unaccompanied asylum seeking children by council and age](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/Unaccompanied%20asylum%20seeking%20children%20by%20council%20and%20age.csv)
 * CSV: [Unaccompanied asylum seeking children by nationality](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/Unaccompanied%20asylum%20seeking%20children%20by%20nationality.csv)
 * CSV: [Unaccompanied asylum seeking children year on year change](https://github.com/BBC-Data-Unit/children-seeking-asylum/blob/master/Unaccompanied%20asylum%20seeking%20children%20year%20on%20year%20change.csv)
