@@ -10,7 +10,12 @@ The data came from a series of Freedom of Information requests sent by data jour
 
 ## Visualisation
 
-* Dan created an [interactive map showing how many unaccompanied children were being looked after in each local authority, and the countries that children were coming from](https://public.tableau.com/profile/daniel.wainwright4535#!/vizhome/Unaccompanied/Dashboard1)
+* Map: Dan created an [interactive map showing how many unaccompanied children were being looked after in each local authority, and the countries that children were coming from](https://public.tableau.com/profile/daniel.wainwright4535#!/vizhome/Unaccompanied/Dashboard1)
+* Line chart: Rise in lone children seeking asylum in England (shown above top)
+* Bar chart: Councils with the most asylum-seeking children (shown above)
+* Bar chart: Ages of asylum seeking children in care
+* Pie chart: Gender of unaccompanied child asylum seekers
+* Bar chart: Most common countries of origin for asylum-seeking children (shown below)
 
 ## Data
 
